@@ -1,6 +1,6 @@
 # Sistem Reservasi Hotel (OOP Python)
 
-Project sederhana berbasis terminal untuk mengelola reservasi hotel, dibuat untuk memenuhi tugas mata kuliah Pemrograman Berorientasi Objek.
+Project sederhana berbasis terminal untuk mengelola reservasi hotel, dibuat untuk memenuhi UTS Pemrograman Berorientasi Objek.
 
 Nama: Angeline Balqis Indarto
 NIM:  14012500117
